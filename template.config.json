@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "slug": "xaura-saas-dashboard",
+  "name": "Xaura SaaS Dashboard",
+  "description": "A polished SaaS dashboard template with sidebar navigation, topbar with search/notifications/profile menu, KPI stat cards with sparklines, SVG analytics charts (revenue, traffic sources), sortable/filterable data table with pagination, activity feed, and realistic loading, empty, and error states. Fully responsive with a mobile drawer navigation and night mode. Built on the Xaura design system.",
+  "category": "business.saas",
+  "slot_schema_version": 1,
+  "author": {
+    "name": "Aryan",
+    "handle": "Aa11rn",
+    "url": "https://github.com/Aa11rn"
+  },
+  "tags": ["saas", "dashboard", "analytics", "charts", "data-table", "responsive", "night-mode", "kpi", "admin", "app-ui"],
+  "features": [
+    "responsive dashboard layout (desktop / tablet / mobile)",
+    "sidebar navigation with active states and mobile drawer",
+    "topbar with global search, notifications dropdown, and profile menu",
+    "KPI stat cards with delta badges and sparklines",
+    "SVG analytics charts with time-range tabs and hover tooltips",
+    "traffic-source donut chart with legend",
+    "sortable, searchable, filterable data table with pagination",
+    "activity feed timeline",
+    "loading skeletons, empty state, and error state with retry",
+    "night mode toggle (persisted preference)",
+    "fully customizable content via data-fws-slot attributes"
+  ],
+  "license": "MIT"
+}
